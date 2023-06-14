@@ -12,4 +12,4 @@ The evolutionary algorithm is implemented as follows:
 
 The file BankProblem.txt has the data and converted into .csv
 
-Run the With Mutation.ipynb
+Run the With Mutation.ipynb file to see all the steps mentioned above.
