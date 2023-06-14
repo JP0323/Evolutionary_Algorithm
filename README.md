@@ -9,3 +9,7 @@ The evolutionary algorithm is implemented as follows:
 4. Run mutation on c and d to give two new solutions e and f. Evaluate the fitness of e and f. 
 5. Run weakest replacement, first using e, then f. 
 6. If a termination criterion has been reached, then stop. Otherwise return to step 2.
+
+The file BankProblem.txt has the data and converted into .csv
+
+Run the With Mutation.ipynb
